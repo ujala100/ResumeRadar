@@ -1,0 +1,8 @@
+Job Title: Backend Developer
+
+Requirements:
+- 2+ years experience with Python
+- Strong knowledge of Django or Flask
+- Experience with PostgreSQL or similar relational databases
+- Familiarity with REST API design
+- Bonus: AWS or cloud experience

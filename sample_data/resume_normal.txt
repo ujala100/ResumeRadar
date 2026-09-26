@@ -1,0 +1,11 @@
+Priya Sharma
+Backend Developer | 3 years experience
+
+Skills: Python, Django, PostgreSQL, REST APIs, Git
+Experience:
+- Backend Developer at TechCorp (2022-2025): Built and maintained REST APIs
+  serving 50k+ daily users using Django and PostgreSQL.
+- Junior Developer at StartupXYZ (2021-2022): Wrote unit tests and fixed bugs
+  in a Python monolith.
+
+Education: B.Tech Computer Science, 2021

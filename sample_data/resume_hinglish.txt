@@ -1,0 +1,11 @@
+Amit Kumar
+Mobile App Developer
+
+Maine 2 saal se Android development kar raha hoon Java aur Kotlin mein.
+Currently working at ek fintech startup jaha maine payment gateway integrate
+kiya tha. Mera experience hai REST APIs, Firebase, aur Room database ke saath.
+Team lead ke saath daily standups attend karta hoon aur sprint planning mein
+bhi participate karta hoon.
+
+Skills: Kotlin, Java, Android SDK, Firebase, Git
+Education: B.E. Information Technology (2020)
